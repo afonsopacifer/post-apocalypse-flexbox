@@ -23,6 +23,9 @@
 - flex
 - align-self
 
+## Learn Flexbox
+See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox).
+
 ## Contributing
 
 Want to contribute? [Follow these recommendations](CONTRIBUTING.md).
