@@ -1,30 +1,30 @@
-# Post Apocalypse Flexbox
+# ![](post-apocalypse-cover.jpg)
 
-> Tricks list to help implement the flexbox features in a world where it is not supported.
+> Tricks list to help implement the [flexbox](http://www.w3.org/TR/css3-flexbox/) features in a world where it is not supported.
 
-## flex container
-*Properties for the Parent*
+## Flex container
+*Properties for the Parent.*
 
-- display
-- flex-direction
-- flex-wrap
-- flex-flow
-- justify-content
-- align-items
-- align-content
+- **display:** flex | inline-flex
+- **flex-direction:** row | row-reverse | column | column-reverse
+- **flex-wrap:** nowrap | wrap | wrap-reverse
+- **flex-flow:** shorthand
+- **justify-content:** flex-start | flex-end | center | space-between | space-around
+- **align-items:** flex-start | flex-end | center | baseline | stretch
+- **align-content:** flex-start | flex-end | center | space-between | space-around | stretch
 
-## flex items
-*Properties for the Children*
+## Flex items
+*Properties for the Children.*
 
-- order
-- flex-grow
-- flex-shrink
-- flex-basis
-- flex
-- align-self
+- **order:** *integer*
+- **flex-grow:** *number*
+- **flex-shrink:** *number*
+- **flex-basis:** *length* | auto
+- **flex:** shorthand
+- **align-self:** auto | flex-start | flex-end | center | baseline | stretch
 
-## Learn Flexbox
-See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox).
+## Learn Flexbox?
+See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) project.
 
 ## Contributing
 
