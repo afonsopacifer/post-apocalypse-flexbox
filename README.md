@@ -1,6 +1,12 @@
 # ![Post Apocalypse Flexbox](post-apocalypse-flexbox.jpg)
 
-> Tricks list to help implement the [flexbox](http://www.w3.org/TR/css3-flexbox/) features in a world where it is not supported.
+> List of tricks to help implement the [flexbox](http://www.w3.org/TR/css3-flexbox/) features in a world where it does not exist .
+
+## What is the purpose of this project?
+Create a fun way solutions that can help to implement the with progressive enhancement and learning and testing new technologies.
+
+## Not know flexbox?
+See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) project.
 
 ## Rules
 
@@ -9,13 +15,13 @@
 - No javascript.
 - No css pre-processors.
 - No css post-processors.
-- We will create our tricks in two modes: [Apocalpse zombie]() and [Revelation robots]().
+- We will create our tricks in two modes: **Apocalpse Zombie** and **Revelation Robots**.
 
-**Apocalpse zombie rules:**
+**Apocalpse Zombie rules:**
 
 - Use only properties with [support](http://caniuse.com/#search=flexbox) equal to or less than the flexbox.
 
-**Revelation robots rules:**
+**Revelation Robots rules:**
 
 - Be happy with [variables](http://www.w3.org/TR/css-variables/), [grid layout](http://www.w3.org/TR/2015/WD-css-grid-1-20150917/) and what you want ;D
 
@@ -39,9 +45,6 @@
 - **flex-basis:** *length* | auto
 - **flex:** shorthand
 - **align-self:** auto | flex-start | flex-end | center | baseline | stretch
-
-## Learn Flexbox?
-See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) project.
 
 ## Contributing
 
