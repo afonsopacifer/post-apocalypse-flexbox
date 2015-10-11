@@ -1,9 +1,11 @@
 # ![Post Apocalypse Flexbox](post-apocalypse-flexbox.jpg)
 
-> List of tricks to help implement the [flexbox](http://www.w3.org/TR/css3-flexbox/) features in a world where it does not exist .
+> List of tricks to help implement the [flexbox](http://www.w3.org/TR/css3-flexbox/) features in a world where it does not exist.
 
 ## What is the purpose of this project?
 Create a fun way solutions that can help to implement the with progressive enhancement and learning and testing new technologies.
+
+[![gitter.im](http://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat-square)](https://gitter.im/afonsopacifer/post-apocalypse-flexbox)
 
 ## Not know flexbox?
 See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) project.
