@@ -50,7 +50,7 @@ See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) proj
 
 ## Contributing
 
-Want to contribute? [Follow these recommendations](CONTRIBUTING.md).
+See the [project roadmap](https://github.com/afonsopacifer/post-apocalypse-flexbox/issues/1) and follow these [recommendations](CONTRIBUTING.md).
 
 ## Licence
 
