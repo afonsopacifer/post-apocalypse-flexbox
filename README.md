@@ -30,7 +30,7 @@ See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) proj
 ## Flex container
 *Properties for the Parent.*
 
-- **[display](flex-container/display.md):** [flex](flex-container/display.md#display:-flex;) | [inline-flex](flex-container/display.md#display:-inline-flex;)
+- **[display](flex-container/display.md):** [flex](flex-container/display/flex.md) | [inline-flex](flex-container/display/inline-flex.md)
 - **flex-direction:** row | row-reverse | column | column-reverse
 - **flex-wrap:** nowrap | wrap | wrap-reverse
 - **flex-flow:** shorthand
