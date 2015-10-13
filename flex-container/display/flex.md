@@ -36,7 +36,7 @@ Using the [CSS 2.1 properties](http://www.w3.org/TR/CSS21/propidx.html)
 	display: block;
 }
 
-.flex-container > * {
+.container > * {
 	display: inline-block;
 	margin-right: -4px;
 }
