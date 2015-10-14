@@ -7,11 +7,16 @@
 - [Revelation Robots mode](#revelation-robots-mode)
 
 ## Flexbox mode
+
+Using the flexbox
+
 ```css
 .container {
 	display: flex;
 }
 ```
+
+The result:
 
 ```css
 .container {
@@ -42,6 +47,20 @@ Using the [CSS 2.1 properties](http://www.w3.org/TR/CSS21/propidx.html)
 }
 ```
 
+The result:
+
+```css
+.container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap; /* the flexbox default is the nowrap */
+	flex-flow: row wrap /* the flexbox default is the nowrap */
+	justify-content: flex-start;
+	align-items: flex-start;
+	align-content: flex-start;
+}
+```
+
 [View support](http://caniuse.com/#search=CSS%202.1%20properties)
 
 ## Revelation Robots mode
@@ -58,6 +77,20 @@ Using the [CSS 2.1 properties](http://www.w3.org/TR/CSS21/propidx.html)
 In the "grid-template-columns" values,
 use the "auto" equal the number of flex-items.
 */
+```
+
+The result:
+
+```css
+.container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	flex-flow: row nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	align-content: flex-start;
+}
 ```
 
 [View support](http://caniuse.com/#search=CSS%20Grid%20Layout)
