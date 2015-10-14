@@ -3,7 +3,7 @@
 ## Table of Content
 
 - [Flexbox mode](#flexbox-mode)
-- [Apocalpse Zombie mode](#apocalpse-zombie-mode)
+- [Apocalypse Zombie mode](#apocalypse-zombie-mode)
 - [Revelation Robots mode](#revelation-robots-mode)
 
 ## Flexbox mode
@@ -16,7 +16,7 @@
 
 [View support](http://caniuse.com/#search=flexbox)
 
-## Apocalpse Zombie mode
+## Apocalypse Zombie mode
 
 The row value from flex-direction is default (see in [Display Flex](../display/flex.md) section), but if you need overwrite other value from this, use the code below.
 

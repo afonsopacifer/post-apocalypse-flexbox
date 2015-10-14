@@ -17,9 +17,9 @@ See the [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox) proj
 - No javascript.
 - No css pre-processors.
 - No css post-processors.
-- We will create our tricks in two modes: **Apocalpse Zombie** and **Revelation Robots**.
+- We will create our tricks in two modes: **Apocalypse Zombie** and **Revelation Robots**.
 
-**Apocalpse Zombie rules:**
+**Apocalypse Zombie rules:**
 
 - Use only properties with [support](http://caniuse.com/#search=flexbox) equal to or less than the flexbox.
 
