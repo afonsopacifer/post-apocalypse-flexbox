@@ -54,7 +54,7 @@ The result:
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap; /* the flexbox default is the nowrap */
-	flex-flow: row wrap /* the flexbox default is the nowrap */
+	flex-flow: row wrap; /* the flexbox default is the nowrap */
 	justify-content: flex-start;
 	align-items: flex-start;
 	align-content: flex-start;
