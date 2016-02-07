@@ -54,4 +54,4 @@ See the [project roadmap](https://github.com/afonsopacifer/post-apocalypse-flexb
 
 ## Licence
 
-[MIT Licence](LICENCE.md) © [Afonso Pacifer](https://github.com/afonsopacifer)
+[MIT License](LICENSE.md) © [Afonso Pacifer](https://github.com/afonsopacifer)
