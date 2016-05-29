@@ -25,7 +25,7 @@ The result:
 	flex-wrap: nowrap; /* default */
 	flex-flow: row nowrap;/* default (shorthand) */
 	justify-content: flex-start; /* default */
-	align-items: flex-start; /* default */
+	align-items: stretch; /* default */
 	align-content: flex-start; /* default but no effect */
 }
 ```
